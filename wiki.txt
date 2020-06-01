@@ -1,0 +1,14 @@
+Using this Wiki
+This Wiki is a community place to gather and organize all things about Python. Feel free to exercise your editorial skills and expertise to make it a useful knowledge base and up-to-date reference on all Python-related topics.
+
+There are some guidelines describing the policies and rules governing this Wiki and how you can most effectively contribute to it. A list of site improvements describes various tasks where your help would be appreciated. To keep up with changes on this site, check RecentChanges frequently or follow it using RSS: RSS feed.
+
+Creating a Wiki account
+In order to sign up for a wiki account, please go to the Create new account form, enter your account name (using the format FirstnameLastname to avoid issues - please don't use spaces in the name) and provide a password, plus email address (for password recovery).
+
+Editing pages
+Since spamming and vandalism on this wiki had reached a level that required constant intervention, unfamiliar users are no longer allowed to edit pages. However all you need to do is introduce yourself to the wiki admin group to become an editor.
+
+If you want to edit a page and have just signed up, or find that you can no longer edit a page that you could edit before, please write to the pydotorg-www mailing list describing what you would like to edit, and we'll add you to the EditorsGroup. Please include your account name (wiki name) in this message.
+
+Sorry for any inconvenience, but we want to keep this wiki a useful tool for the community, while at the same time preventing the wiki admins from burning out cleaning up junk.
