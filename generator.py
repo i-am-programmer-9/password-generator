@@ -6,4 +6,4 @@ num = ['1','2','3','4','6','5']
 special_char = ['@','#','!','$','%']
 
 passw = random.choice(upper_char) + random.choice(lower_char) + random.choice(num) + random.choice(special_char)
-print(passw)
+print(f"Your Password is: {passw}")
